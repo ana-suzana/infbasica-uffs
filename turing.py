@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Die Radioaktivität - 1911\nTreatise on Radioactivity-1910\n Pierre Currie-1923\n Entre outros..."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "'Nada na vida deve ser temido, somente compreendido. Agora é hora de compreender mais para temer menos.'\n 'Um cientista no seu laboratório não é apenas um técnico: é, também, um menino colocado à frente de fenômenos naturais que impressionam como se de um conto de fadas se tratassem!'
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Marie Curie.\n")
 
 continuar = True
 while continuar == True:
