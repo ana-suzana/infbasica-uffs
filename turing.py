@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Marie Curie.\n")
+print("\nBoa noite! Você está aprendendo sobre Marie Curie!\n")
 
 continuar = True
 while continuar == True:
